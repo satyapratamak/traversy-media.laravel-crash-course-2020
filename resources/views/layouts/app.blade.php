@@ -31,7 +31,7 @@
             </li>
 
             <li>
-                <a href="" class="p-4">REGISTER </a>                
+                <a href="{{ route('register') }}" class="p-4">REGISTER </a>                
             </li>
 
             <li>
